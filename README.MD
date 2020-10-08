@@ -1,5 +1,5 @@
 # Document Classifier using ResNet50 Pre-Trained Model 
-Applying ResNet50 (Pre-Trained) in classifying the document into classes (utility, mobile and others)
+Applying ResNet50 (Pre-Trained) in classifying the document into classes (Utility, Mobile and Others)
 
 ## Initial Steps 
 Clone github repositories to your local machine 
